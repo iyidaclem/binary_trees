@@ -17,3 +17,4 @@
 | [`10-binary_tree_depth.c`](10-binary_tree_depth.c) | A function that measures the depth of a node in a binary tree |
 | [`11-binary_tree_size.c`](11-binary_tree_size.c) | A function that measures the size of a binary tree |
 | [`12-binary_tree_leaves.c`](12-binary_tree_leaves.c) | function that counts the leaves in a binary tree |
+| [`13-binary_tree_nodes.c`](13-binary_tree_nodes.c) | function that counts the nodes with at least 1 child in a binary tree |
