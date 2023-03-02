@@ -11,3 +11,4 @@
 | [`4-binary_tree_is_leaf.c`](4-binary_tree_is_leaf.c) | A function that checks if a node is a leaf|
 | [`5-binary_tree_is_root.c`](5-binary_tree_is_root.c) | A function that checks if a node is a root|
 | [`6-binary_tree_preorder.c`](6-binary_tree_preorder.c) | A function that goes through a binary tree using pre-order traversal|
+| [`7-binary_tree_inorder.c`](7-binary_tree_inorder.c) | A function that goes through a binary tree using in-order traversal|
