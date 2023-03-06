@@ -24,3 +24,4 @@
 | [`17-binary_tree_sibling.c`](17-binary_tree_sibling.c) | function that finds the sibling of a node |
 | [`18-binary_tree_uncle.c`](18-binary_tree_uncle.c) | function that finds the uncle of a node |
 | [`100-binary_trees_ancestor.c`](100-binary_trees_ancestor.c) | A function that finds the lowest common ancestor of two nodes |
+| [`101-binary_tree_levelorder.c`](101-binary_tree_levelorder.c) | function that goes through a binary tree using level-order traversal |
